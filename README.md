@@ -97,18 +97,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### ✨ Thank you for your interest in UFW Controller! 😊
 ```
-
-### Additional Elements to Consider
-
-You might want to add images, such as:
-
-- **Project logo** (if you have one)
-- **Screenshots** of the library in action
-- **Badges** (e.g., build status, license) at the top of the file to give it a more professional appearance.
-
-### Example Badges
-
-```markdown
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-```
